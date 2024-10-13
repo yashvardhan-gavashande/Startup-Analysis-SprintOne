@@ -51,4 +51,4 @@ Integrate external data sources (e.g., API connections) for real-time updates.
 Add more advanced AI models to predict startup growth or market trends.
 Include interactive map visuals for geographical analysis.
 Contact
-For further information or questions, contact Yashvardhan Gavashande.
+For further information or questions, contact Abhinav Singh.
